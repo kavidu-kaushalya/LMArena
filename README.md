@@ -25,7 +25,17 @@ No other system permissions are required.
 
 1. Download the app package (`.msix`) from the release page.  
 2. Right-click and select **Install**.  
-3. Open the app from the Start Menu.  
+3. Open the app from the Start Menu.
+
+Supported Windows Versions:
+- Minimum: Windows 10, version 1809 (Build 17763)
+- Recommended / Target: Windows 11, version 24H2 (Build 26100)
+- Architecture: x86 (32-bit) and x64 (64-bit)
+
+Notes:
+- Internet connection required to load the Chatbot Arena website.
+- App works as a UWP wrapper for the web interface.
+
 
 ## Usage
 
