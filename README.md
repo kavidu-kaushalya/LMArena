@@ -42,4 +42,4 @@ No other system permissions are required.
 
 ## License
 
-[MIT License](LICENSE) (or your preferred license)
+LICENSE
