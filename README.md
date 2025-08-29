@@ -23,7 +23,7 @@ No other system permissions are required.
 
 ## Installation
 
-1. Download the app package (`.appx` or `.msix`) from the release page.  
+1. Download the app package (`.msix`) from the release page.  
 2. Right-click and select **Install**.  
 3. Open the app from the Start Menu.  
 
